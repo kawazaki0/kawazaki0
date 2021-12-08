@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @kawazaki0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kawazaki0/kawazaki0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m a Software Engineer with over a decade of experience.
+- I’m combining technical and interpersonal skills to drive successful product delivery.
+- I’m specializing in developing backend solutions using Python.
