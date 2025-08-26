@@ -1,3 +1,3 @@
-- 👋 Hi, I’m a Software Engineer with over a decade of experience in T-Mobile and CodiLime.
-- 👀 I’m combining technical and interpersonal skills to drive successful product delivery.
-- 🌱 I’m specializing in developing backend solutions using Python.
+- Hi, I’m a Software Engineer with over a decade of experience in T-Mobile and CodiLime.
+- I’m combining technical and interpersonal skills to drive successful product delivery.
+- I’m specializing in developing backend solutions using Python.
